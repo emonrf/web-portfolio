@@ -24,7 +24,7 @@ export const PORTFOLIO_CONFIG = {
       title: "CNMI Bar Association Management System",
       description: "Full-stack member management platform for licensed attorneys with authentication, member directory, off-island calendar tracking, and admin panel. Firebase + Firestore + SendGrid integration. Ongoing project with payment processing and CLE tracking planned.",
       tags: ["JavaScript", "Firebase", "Firestore", "Node.js", "SendGrid", "Cloud Functions"],
-      demo: "https://cnmi-bar.netlify.app/",
+      demo: "https://cnmi-bar-association.web.app/",
       image: "/projects/cnmi-bar.png"
     },
     {
